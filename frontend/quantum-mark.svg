@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Quantum Canvas mark">
+  <defs>
+    <linearGradient id="g" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#167078"/><stop offset="1" stop-color="#1839a8"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#061d22"/>
+  <ellipse cx="32" cy="31" rx="23" ry="9" fill="none" stroke="#b8d5d1" stroke-width="2" transform="rotate(28 32 31)"/>
+  <ellipse cx="32" cy="31" rx="23" ry="9" fill="none" stroke="#6fa7c7" stroke-width="2" transform="rotate(88 32 31)"/>
+  <circle cx="32" cy="31" r="8" fill="url(#g)" stroke="#eef0ef" stroke-width="2"/>
+  <path d="M37 37l9 9" stroke="#eef0ef" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="48" cy="48" r="3" fill="#eef0ef"/>
+</svg>
